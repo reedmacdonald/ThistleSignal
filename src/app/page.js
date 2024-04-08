@@ -10,7 +10,7 @@ export default function Home() {
         <h1>Thistle Signal</h1>
         <h2>
           Answer the Signal. Help your community. And then Signal that
-          you've answered the Signal.
+          you&apos;ve answered the Signal.
         </h2>
         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
           <rect x="35" y="50" width="30" height="40" fill="#000000" />
