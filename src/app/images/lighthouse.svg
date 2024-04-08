@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Background -->
+  <rect x="0" y="0" width="100" height="100" fill="#FFFFFF"/>
+  
+  <!-- Lighthouse Body -->
+  <rect x="35" y="50" width="30" height="40" fill="#000000"/>
+  
+  <!-- Lighthouse Top -->
+  <polygon points="30,50 70,50 50,20" fill="#000000"/>
+  
+  <!-- Lighthouse Stripes -->
+  <rect x="38" y="55" width="24" height="2" fill="#FFFFFF"/>
+  <rect x="38" y="62" width="24" height="2" fill="#FFFFFF"/>
+  <rect x="38" y="69" width="24" height="2" fill="#FFFFFF"/>
+  
+  <!-- Lighthouse Door -->
+  <rect x="47" y="75" width="6" height="15" fill="#000000"/>
+  
+  <!-- Lighthouse Window -->
+  <circle cx="53" cy="60" r="3" fill="#FFFFFF"/>
+</svg>

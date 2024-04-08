@@ -25,9 +25,31 @@ body {
     )
     rgb(var(--background-start-rgb));
 }
+.thistle-background {
+  background-color: thistle;
+}
+h1{
+  font-size: 2rem;
+
+}
+h2{
+  font-size: 1.5rem;
+}
 
 @layer utilities {
   .text-balance {
     text-wrap: balance;
   }
+}
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+th, td {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+th {
+  background-color: #f2f2f2;
 }
